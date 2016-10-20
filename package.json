@@ -1,0 +1,28 @@
+{
+  "name": "@frabor/math_example",
+  "version": "1.0.2",
+  "description": "An example of creating a package",
+  "main": "bin/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "frabor",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranBor/math_example.git"
+  },
+  "keywords": [
+    "math",
+    "example",
+    "addition",
+    "subtraction",
+    "multiplication",
+    "division",
+    "fibonacci"
+  ],
+  "bugs": {
+    "url": "https://github.com/FranBor/math_example/issues"
+  },
+  "homepage": "https://github.com/FranBor/math_example#readme"
+}
